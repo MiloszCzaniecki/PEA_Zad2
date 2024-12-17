@@ -1,0 +1,16 @@
+tsp10.txt
+1
+1
+
+Jak odczytywac konfig?
+Wybor pliku z grafem
+
+Wybor opcji:
+1 - BranchNBound
+2 - BestFirstSearch
+3 - A*
+4 - kazdy z nich dla zadanego grafu
+inna opcja: calkowity test kazdego algorytmu dla wszystkich grafow
+
+Ile iteracji?
+Dla opcji innych niz 1-4 niezaleznie od ilosci iteracji bedzie wykonywana tylko 1 iteracja dla kazdego algorytmu
